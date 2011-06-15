@@ -1,0 +1,19 @@
+Wifi-Bot is an ECE undergraduate group project at the Camarines Sur Polytechnic Colleges.
+It is a modified RC car with an IP camera and linked via Wifi enabling the user to control 
+it remotely through a computer program.
+
+Main Components:
+- Arduino (a local clone named Gizduino)
+- Ethernet to Serial shield (connects the arduino to the router)
+- Wireless router
+- IP wired camera (made by Apexis)
+- Laptop
+- RC car (modified)
+- Integrated UI
+
+
+COPYING file contains the GPL software license for this project.
+The Arduino directory contains the Arduino microcontroller code.
+The C# directory contains the integrated user interface code for controlling the motion of the 
+RC car and for viewing the output of the webcam.
+
